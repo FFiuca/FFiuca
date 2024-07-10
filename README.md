@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @FFiuca
 - 👀 I’m interested in Full Stack Developer, specially Back End Developer
-- 🌱 I’m currently learning Laravel and React
+- 🌱 Tech what I use currently are Laravel, ReactJS and Django
+- 🍡 Tools that I learn/use currenty are Docker, Kubernetes, ElasticSearch and MongoDB
 - 💞️ I’m looking to collaborate on project or working with IT Team.
 - 📫 How to reach me? just mail me here : fardana.fiuca31@gmail.com, or LinkedIn message to https://www.linkedin.com/in/fikri-f-339546107/
 
